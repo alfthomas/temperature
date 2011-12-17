@@ -3,5 +3,9 @@
 
     <string name="hello">Hello World, ConvertActivity!</string>
     <string name="app_name">Temperature Converter</string>
+    <color name="myColor">#3399CC</color>
+    <string name="celsius">to Celsius</string>
+    <string name="fahrenheit">to Fahrenheit</string>
+    <string name="calc">Calculate</string>
 
 </resources>
